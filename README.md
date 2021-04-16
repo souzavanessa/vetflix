@@ -34,19 +34,14 @@ Netflix-clone, Veterinary version
 
 # :camera: Screenshots
 <div align="center">
-   <img src="https://github.com/moraesnicol/estudo_policial_flutter_web_build/blob/master/assets/Estudo.policial.gif" >
+   <img src="https://github.com/souzavanessa/vetflix/blob/main/images/screenshot.png?raw=true" >
 
 </div>
-
-# :rocket: Technologies
-This project was made using the follow technologies:
-
-* [Flutter Web](https://github.com/flutter/flutter_web)
 
 
 
 
 # :page_facing_up: License
 
-This project is under the [MIT License](./LICENSE) |
-Made with 💖 by [Gabriel Nicol](https://www.linkedin.com/in/gabrielnicol/).
+
+Made with 💖 by [Vanessa Alves](https://www.linkedin.com/in/vanessa-alves-5a2b6816a/).
