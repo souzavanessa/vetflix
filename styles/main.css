@@ -1,0 +1,122 @@
+:root{
+    --vermelho: #E50914;
+    --preto: #141414;
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+@font-face {
+    font-family: "Bebas Neue" ;
+    src: url(../fonts/BebasNeue-Regular.ttf);
+}
+/*Elementos base*/
+body{
+   background-color: var(--preto);
+   color: #fff;
+   font-family: 'Arial', Times, serif;
+}
+
+header .container{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+}
+
+header .logo{
+    margin-left: 10px;
+    color: var(--vermelho);
+    font-family: 'Bebas Neue';
+    font-size: 40px;
+    letter-spacing: 0.13em;
+}
+header nav a{
+text-decoration: none;
+color: #AAA;
+margin-right: 10px;
+}
+
+header nav a:hover{
+color: #fff;
+}
+
+/*Elementos principais*/
+.aula-principal{
+    font-size: 16px;
+    background-image: linear-gradient(rgba(0,0,0, .50),rgba(0,0,0, .50)100%), url('../images/capa.png');
+    height: 500px;
+    background-size:cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.aula-principal .descricao{
+    margin-top: 3px;
+    margin-bottom: 90px;
+    width: 400px;
+    text-align: justify;
+}
+
+.titulo{
+    margin-top: 50%;
+    font-size: 40px;
+    letter-spacing: 0.1em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.botao{
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: .3s ease all; 
+
+}
+
+.botao i{
+    margin-right: 6px;
+}
+
+.botao2 i{
+    margin-right: 6px;
+}
+.botao2{
+    background-color: rgb(124, 122, 122);
+    border: none;
+    color: black;
+    padding: 10px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.altura{
+    margin-top: -13%;
+}
+
+.botao:hover{
+background-color: black;
+color: white;
+
+}
+
+.container{
+    margin-left: 20px;
+}
+.box-aula{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.carrosel-aula{
+    margin-top: 5px;
+}
