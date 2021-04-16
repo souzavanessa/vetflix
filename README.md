@@ -29,7 +29,6 @@ Netflix-clone, Veterinary version
 # 📌 Contents
 
 * [Screenshots](#camera-screenshot)
-* [Technologies](#rocket-technologies)
 * [License](#page_facing_up-license)
 
 # :camera: Screenshots
