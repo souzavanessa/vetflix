@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  :heavy_check_mark: Flutter Web
+  :heavy_check_mark: HTML/CSS/JAVASCRIPT
 </p>
 
 <hr />
@@ -19,11 +19,11 @@
 
 # :coffee: About
 
-My first front at Flutter Web
+Netflix-clone, Veterinary version
 
 
 
-# [Confira o site ;) ](https://estudopolicial-moraesnicol.vercel.app/#/)
+
 
 
 # 📌 Contents
